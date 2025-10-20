@@ -1,5 +1,5 @@
 # 🚗 Real-Time Traffic Density Estimation with YOLOv8
-![Traffic Density Estimation](/images/cover_image_raw.png)
+
 
 
 ## 🔍 Overview
